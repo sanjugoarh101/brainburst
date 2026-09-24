@@ -1,0 +1,6 @@
+{
+  "name": "BrainBurst",
+  "description": "An addictive and helpful brain training game featuring speed math, word scramble, and memory matrix puzzles with social leaderboards, daily challenges, unlockable rewards, and cosmetic shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
